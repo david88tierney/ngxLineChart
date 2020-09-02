@@ -1,1 +1,2 @@
 # ngxLineChart
+# ngxChart
